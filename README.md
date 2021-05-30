@@ -1,4 +1,4 @@
-# apring-boot-api-security-jwt
+# spring-boot-api-security-jwt
 This is a demo application for API security using spring boot and JWT
 
 **Step1** Create API to get list of movies(unsecured)
